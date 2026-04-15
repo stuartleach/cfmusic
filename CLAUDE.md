@@ -25,11 +25,12 @@ The site is designed to coexist with Webflow. The team can edit content in Webfl
 - `src/lib/webflow.ts` — Webflow CMS API client
 - `src/components/` — Shared components
 
-## Design
-- Brand color: #AF3F16 (burnt orange)
-- Background: #FFFBF5 (warm off-white)
-- Text: #131211 (near-black)
-- Font: Inter
+## Design (from Standards Manual v3.1)
+- Primary orange: #E8581C
+- Background cream: #E8E0CE
+- Text/dark: #131211
+- Font: Inter (web) / Altform (print brand)
+- Logo: "C" flame mark (black + orange circle)
 
 ## Deploy
 ```bash
